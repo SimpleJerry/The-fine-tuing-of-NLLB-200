@@ -1,3 +1,5 @@
+data
+
 DataSet来源：[AI-Hub 한국어-중국어 번역 말뭉치(기술과학)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=128)
 
 数据集备份：[百度网盘](https://pan.baidu.com/s/1QdIiuDPqXnBinctRjJgl6g?pwd=6666)
