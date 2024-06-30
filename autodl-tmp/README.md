@@ -1,5 +1,7 @@
 # autodl-tmp
 
+该目录的命名是由于GPU租赁平台AutoDL的数据盘名称即为autodl-tmp，在本工程中主要用于存储预训练模型和微调模型
+
 目录结构：
 
 > autodl-tmp/
