@@ -1,3 +1,13 @@
+# Ignore all README.md files in all directories
+!**/README.md
+
+# Dataset folder
+data/027.한국어-중국어_번역_말뭉치_1
+
+# AutoDL data folder
+autodl-tmp/
+
+
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
